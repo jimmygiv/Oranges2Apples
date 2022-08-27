@@ -1,4 +1,4 @@
-<img src="img/Logo.PNG" width=200>
+<img src="img/Logo.png" width=200>
 
 # <span style="color:orange">Oranges</span>2<span style="color:green">Apples</span>
 Welcome to Oranges2Apples! The fun discord game to generate wacky images! We are hoping to release the Alpha around October 1st.
@@ -10,7 +10,7 @@ Welcome to Oranges2Apples! The fun discord game to generate wacky images! We are
  1. "Michael Jordan dunking a basketball in a jungle in a fluorescent bioluminescent style"
  2. "Todd from Disney's The Fox and the Hound in a rose garden in the style of Monet"
  3. "A fisher price bear in a Nebula"
-![Image](img/mj_dunk.PNG) | ![Image](img/fox.PNG) | ![Image](img/bear.PNG)
+![Image](img/mj_dunk.png) | ![Image](img/fox.png) | ![Image](img/bear.png)
 ## In-Game Commands
   Coming soon! Approx closed Alpha release is October 1st, 2022.
 ## License
